@@ -3,6 +3,7 @@
 Submitted by: **GUIBRIL RAMDE**
 
 **RANDOM COLOR** is an app that... [CHANGE RANDOMLY COLORS WHEN THE USERS PRESS THE BUTTON] 
+![](codepath-prework.gif)
 
 Time spent: **0.5** hours spent in total
 
